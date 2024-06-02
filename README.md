@@ -48,7 +48,7 @@ Exploremos los datos del dataframe mediante visualizaciones
 ![image](https://github.com/TigerXHero/Financial-Fraud-Detection/blob/main/images/mapa_calor_1.png)
 
 ### 3. Construcción de Modelos
-![image](https://github.com/TigerXHero/Financial-Fraud-Detection/blob/main/images/matriz_confusion.png)
+![image](https://github.com/TigerXHero/Financial-Fraud-Detection/blob/main/images/matiz_confusion.png)
 
 ### 4. Evaluación y Selección del Modelo
 ![image](https://github.com/TigerXHero/Financial-Fraud-Detection/blob/main/images/evaluacion_modelos.png)
