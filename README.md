@@ -75,9 +75,9 @@ En este caso, Recall es una métrica clave para poder disminuir el numero de fra
 
 ## Conclusiones:
 
-Determinamos que el modelo Random Forest era la opción más apropiada debido a sus ventajas específicas en términos de métricas de desempeño y capacidad de generalización en conjuntos de datos grandes, complejos y desequilibrados.
+Sería beneficioso continuar evaluando y mejorando el modelo utilizando conjuntos de datos más grandes y variados, así como explorar técnicas adicionales de preprocesamiento de datos y ajuste de hiperparámetros para mejorar aún más su desempeño en diferentes contextos bancarios y en un entorno de producción.
 
-La implementación de este modelo en un entorno bancario puede mejorar significativamente la capacidad de detectar y prevenir fraudes, reduciendo así las pérdidas económicas y aumentando la confianza de los clientes en la seguridad de las transacciones.
+En conclusión, el uso del algoritmo **Random Forest** para la detección de fraudes bancarios ha demostrado ser una elección acertada, proporcionando un balance óptimo entre precisión, capacidad de generalización y eficiencia, lo que lo convierte en una herramienta valiosa para combatir el fraude en el sector bancario.
 
 ## Autores
 
