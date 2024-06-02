@@ -49,10 +49,10 @@ Exploremos los datos del dataframe mediante visualizaciones
 
 ### 3. Construcción de Modelos
 ![image](https://github.com/TigerXHero/Financial-Fraud-Detection/blob/main/images/matiz_confusion.png)
+![image](https://github.com/GeraDLC/Financial_Fraud_Detection/blob/main/Unknown.png)
 
 ### 4. Evaluación y Selección del Modelo
 ![image](https://github.com/TigerXHero/Financial-Fraud-Detection/blob/main/images/evaluacion_modelos.png)
-![image](https://github.com/GeraDLC/Financial_Fraud_Detection/blob/main/Unknown.png)
 
 ## Conclusiones:
 
