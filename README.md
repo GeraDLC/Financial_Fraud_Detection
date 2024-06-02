@@ -40,7 +40,6 @@ Los datos base fueron extraidos de fuentes oficiales, https://www.kaggle.com/dat
 Exploremos los datos del dataframe mediante visualizaciones
 
 ![image](https://github.com/TigerXHero/Financial-Fraud-Detection/blob/main/images/distribucion_fraudes.png)
-![image](https://github.com/TigerXHero/Financial-Fraud-Detection/blob/main/images/boxplot_monto.png)
 ![image](https://github.com/TigerXHero/Financial-Fraud-Detection/blob/main/images/transacciones_x_destinatario.png)
 ![image](https://github.com/TigerXHero/Financial-Fraud-Detection/blob/main/images/transacciones_mes.png)
 ![image](https://github.com/TigerXHero/Financial-Fraud-Detection/blob/main/images/transacciones_fraude.png)
