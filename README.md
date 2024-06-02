@@ -52,6 +52,7 @@ Exploremos los datos del dataframe mediante visualizaciones
 
 ### 4. Evaluación y Selección del Modelo
 ![image](https://github.com/TigerXHero/Financial-Fraud-Detection/blob/main/images/evaluacion_modelos.png)
+![image](https://github.com/GeraDLC/Financial_Fraud_Detection/blob/main/Unknown.png)
 
 ## Conclusiones:
 
