@@ -45,7 +45,6 @@ Exploremos los datos del dataframe mediante visualizaciones
 ![image](https://github.com/TigerXHero/Financial-Fraud-Detection/blob/main/images/transacciones_mes.png)
 ![image](https://github.com/TigerXHero/Financial-Fraud-Detection/blob/main/images/transacciones_fraude.png)
 ![image](https://github.com/TigerXHero/Financial-Fraud-Detection/blob/main/images/transacciones_rango_horario.png)
-![image](https://github.com/TigerXHero/Financial-Fraud-Detection/blob/main/images/mapa_calor_1.png)
 
 ### 3. Construcción de Modelos
 ![image](https://github.com/TigerXHero/Financial-Fraud-Detection/blob/main/images/matiz_confusion.png)
